@@ -1,5 +1,6 @@
 This is practical assignment part of Berkley AIML professional certification course and mainly focus on analytical skills based on survey results dataset 
 "Will Driver accept coupon if offered from Bar/Restaurance/Cofeeshop on their way to destination?"
+Data set used for analysis - https://github.com/kondalraop/customer_coupon_acceptance/blob/main/coupons.csv
 General Findings:
 Total 6594 null values spread across 6 columns and out of which Car column has more number of null values.
 
